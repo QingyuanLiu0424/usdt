@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+.usdtContainer{
+    color:rgb(180, 180, 180);
+    margin-bottom: 10px;
+    font-size: 0.8em;
+}
+.cnyContainer{
+    display: inline-block;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding-right: 5px;
+}
+#cnyUnit{
+    display:inline-block;
+    font-weight: bold;
+}
